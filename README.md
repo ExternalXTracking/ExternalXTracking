@@ -1,4 +1,4 @@
-### Official repository for the XSA, Plovdiv – 
+### Official repository for the XSA | Plovdiv, Bulgaria | Established 1992
 
 - Founded in 1992 under 1947-КЗ/НС. (of the National Security Act)
 - Per Article 22 some Repositories *MAY* contain **NO** material.
