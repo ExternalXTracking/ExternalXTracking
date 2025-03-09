@@ -20,4 +20,4 @@ GDPR, NATO Annex IV, ISO/IEC 27001
 ### **FOOTER**  
 *This organization is a statutory entity of the United Socialist States of the Oceanian Union. Unauthorized access or dissemination of XSA materials is punishable under Penal Code §104-б.*
 
-*All cryptographic assertions are simulated for academic rigor. This **IS** A larp.*  
+*All cryptographic assertions are simulated for academic rigor.*  
